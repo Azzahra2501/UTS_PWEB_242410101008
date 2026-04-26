@@ -14,26 +14,35 @@ Fitur:
 
 TAMPILAN SISTEM
 1. Halaman login
+
    
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ab238f52-8bd5-47b1-9b7f-9e2f899bddc2" />
 
 
-3. Halaman dashboard
+
+2. Halaman dashboard
+
    
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/15d1c2a5-aefd-4651-8562-ea3bc1f42c38" />
 
 
-4. Halaman profile
+
+3. Halaman profile
+
    
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6b2dbf15-d163-4c32-8be6-aa1885c13e4c" />
 
 
-5. Halaman pengelolaan
+
+4. Halaman pengelolaan
+
    
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/40dd8c90-c266-411d-b465-3eb14792ee19" />
 
 
-6. Halaman About Stationify
+
+5. Halaman About Stationify
+
    
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2dc19735-483e-4621-90b3-a42a64e31840" />
 
